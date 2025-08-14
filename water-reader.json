@@ -1,0 +1,43 @@
+[
+      {
+        "township": "Township 1",
+        "quarter": [
+          {
+            "name": "Ward 1",
+            "streets": [
+              {
+                "name": "Street A",
+                "houses": [{"no": "10(a)"}, {"no": "11(b)"}]
+              },
+              {
+                "name": "Street B",
+                "houses": [{"no": "22"}, {"no": "23"}]
+              }
+            ]
+          },
+          {
+            "name": "Ward 2",
+            "streets": [
+               {
+                "name": "Street C",
+                "houses": [{"no": "30"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "township": "Township 2",
+        "quarter": [
+          {
+            "name": "Ward 3",
+            "streets": [
+              {
+                "name": "Street D",
+                "houses": [{"no": "45"}]
+              }
+            ]
+          }
+        ]
+      }
+    ]
