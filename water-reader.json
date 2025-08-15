@@ -1,43 +1,34 @@
 [
+  {
+    "township": "သာကေတ",
+    "quarter": [
       {
-        "township": "Test 1",
-        "quarter": [
+        "name": "မာန်ပြေလမ်း",
+        "streets": [
           {
-            "name": "Ward 1",
-            "streets": [
+            "name": "မာန်ပြေလမ်း၁",
+            "houses": [
               {
-                "name": "Street A",
-                "houses": [{"no": "10(a)"}, {"no": "11(b)"}]
+                "no": "10(a)"
               },
               {
-                "name": "Street B",
-                "houses": [{"no": "22"}, {"no": "23"}]
+                "no": "11(b)"
               }
             ]
           },
           {
-            "name": "Ward 2",
-            "streets": [
-               {
-                "name": "Street C",
-                "houses": [{"no": "30"}]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "township": "Township 2",
-        "quarter": [
-          {
-            "name": "Ward 3",
-            "streets": [
+            "name": "မာန်ပြေလမ်း၂",
+            "houses": [
               {
-                "name": "Street D",
-                "houses": [{"no": "45"}]
+                "no": "22"
+              },
+              {
+                "no": "23"
               }
             ]
           }
         ]
       }
     ]
+  }
+]
